@@ -1,0 +1,14 @@
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\bin\Debug\net8.0\Estrutura de repetição.exe
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\bin\Debug\net8.0\Estrutura de repetição.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\bin\Debug\net8.0\Estrutura de repetição.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\bin\Debug\net8.0\Estrutura de repetição.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\bin\Debug\net8.0\Estrutura de repetição.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\Estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\Estrutura de repetição.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\Estrutura de repetição.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\Estrutura de repetição.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\Estrutura de repetição.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\refint\Estrutura de repetição.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\Estrutura de repetição.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\Estrutura de repetição.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Estrutura de repetição\obj\Debug\net8.0\ref\Estrutura de repetição.dll
